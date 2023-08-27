@@ -54,4 +54,7 @@ describe('Testes da tela de login', () => {
     tela_login.senhaVazia()
   })
 
+  it('Fazer login por meio do botão do fim da página', () =>{
+    tela_login.loginFinalPagina()
+  })
 })

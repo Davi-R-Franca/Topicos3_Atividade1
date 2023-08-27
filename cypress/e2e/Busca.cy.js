@@ -51,7 +51,7 @@ describe("template spec", () => {
       cy.viewport(1500, 900);
       busca.acessarTelaPrincipal();
       cy.wait(8000);
-      busca.pesquisa("Sakura do naruto eita");
+      busca.pesquisa("ナルトのサクラ");
       cy.wait(5000);
     }),
     it("Buscar rodape", () => {

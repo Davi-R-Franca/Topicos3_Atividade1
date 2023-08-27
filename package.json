@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Davi-R-Franca/Topicos3_Atividade1#readme",
   "devDependencies": {
-    "cypress": "^12.17.2"
+    "cypress": "^12.17.4"
   }
 }

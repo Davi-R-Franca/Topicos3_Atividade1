@@ -18,7 +18,7 @@ $ npm install
 
 # Execute o cypress
 $ npx cypress open
-
+$ npx cypress run para testar sem abrir navegador
 # Selecione E2E Testing
 
 # Selecione algum navegador (Ex:Chrome)

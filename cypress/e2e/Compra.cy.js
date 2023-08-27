@@ -52,7 +52,7 @@ describe('template spec', () => {
     cy.wait(8000)
     compra.finalizarCompra()
   }),
-  it.only('Comprar camisa do Fluminense e calcular o frete', () => {
+  it('Comprar camisa do Fluminense e calcular o frete', () => {
     cy.viewport(1500,900)
     compra.acessarTelaPrincipal()
     compra.pesquisa("fluminense")

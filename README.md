@@ -8,7 +8,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Davi-R-Franca/Topicos3_Atividade1.git>
+$ git clone <https://github.com/Davi-R-Franca/Topicos3_Atividade1>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Topicos3_Atividade1
@@ -16,6 +16,12 @@ $ cd Topicos3_Atividade1
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação
+# Execute o cypress
 $ npx cypress open
+
+# Selecione **E2E Testing**
+
+# Selecione algum navegador (Ex:Chrome)
+
+# Selecione o teste a ser executado
 ```
